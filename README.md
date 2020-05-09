@@ -1,4 +1,4 @@
-# appCovidFreeTime
+# **appCovidFreeTime**
 
 ## **Proposta**
 
@@ -10,9 +10,12 @@ O App terá como principal intuito ajudar o usuário a criar uma rotina e ter be
 ## **Uso**
 
 O usuário deverá inserir o seu horário de trabalho, como por exemplo, 9 - 16. 
-A partir dessa informações o App irá sugerir atividades, que o usuário havia selecionado com interesse previamente, como:
+Com esse dado o App será capaz de sugerir atividades, que foram previamente selecionadas pelo usuário como interessantes, para que ele as realize em seu tempo livre, sendo elas:
 * Meditação
 * Filmes
 * Séries
 * Esportes
 * Alongamentos
+Ao final de uma semana utilizando o App, o usuário terá a opção de visualizar quais e quantas atividades praticou.
+
+#**#FIQUEEMCASA**
