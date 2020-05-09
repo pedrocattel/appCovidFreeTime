@@ -17,6 +17,7 @@ Com esse dado o App será capaz de sugerir atividades, que foram previamente sel
 * Séries
 * Esportes
 * Alongamentos<br/>
+
 Ao final de uma semana utilizando o App, o usuário terá a opção de visualizar quais e quantas atividades praticou.
 
 
