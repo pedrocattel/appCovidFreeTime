@@ -4,8 +4,7 @@
 
 Durante este difícil período que estamos passando, nunca foi tão complexo se organizar (Trabalho, tarefas de casa, limitações de espaço...)
 
-O CovidFreeTime auxiliaria o usuário exatamente nessa questão: Organizar o seu dia.
-O App terá como principal intuito ajudar o usuário a criar uma rotina e ter bem definido o que é trablho e quando deve aproveitar o seu *free Time*.
+O CovidFreeTime auxiliaria o usuário exatamente nessa questão: Organizar o seu dia.<br/>O App terá como principal objetivo ajudar o usuário a criar uma rotina e ter bem definido o que é trablho e quando deve aproveitar o seu *free Time*.
 
 O App será totalmente free e terá seu código disponibilizado na internet.
 
