@@ -11,7 +11,7 @@ O App será totalmente free e terá seu código disponibilizado na internet.
 
 ## **Uso**
 
-O usuário deverá inserir o seu horário de trabalho, como por exemplo, 9 - 16.  Com esse dado o App será capaz de sugerir atividades, que foram previamente selecionadas pelo usuário como interessantes, para que ele as realize em seu tempo livre, sendo elas:
+O usuário deverá inserir o seu horário de trabalho, como por exemplo, 9 - 16.<br/>Com esse dado o App será capaz de sugerir atividades, que foram previamente selecionadas pelo usuário como interessantes, para que ele as realize em seu tempo livre, sendo elas:
 * Meditação
 * Filmes
 * Séries
